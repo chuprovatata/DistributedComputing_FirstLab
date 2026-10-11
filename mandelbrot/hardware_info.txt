@@ -1,0 +1,11 @@
+Hardware information
+====================
+Processor: Apple M3
+Architecture: arm64
+Logical CPUs: 8
+Physical CPUs: 8
+Memory (bytes): 17179869184
+macOS: 26.5
+Compiler: Apple clang version 17.0.0 (clang-1700.4.4.1)
+Optimization: -O2
+Runs per configuration: 10

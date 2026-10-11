@@ -80,17 +80,11 @@ $$
 
 ### Графики производительности
 
-**Время выполнения программы**
-
-![Время выполнения](plots/execution_time.png)
-
-**Ускорение параллельной программы**
-
-![Ускорение](plots/speedup.png)
-
-**Эффективность распараллеливания**
-
-![Эффективность](plots/efficiency.png)
+<p align="center">
+  <img src="mandelbrot/plots/execution_time.png" width="32%" alt="Время выполнения">
+  <img src="mandelbrot/plots/speedup.png" width="32%" alt="Ускорение">
+  <img src="mandelbrot/plots/efficiency.png" width="32%" alt="Эффективность">
+</p>
 
 ## Вывод
 

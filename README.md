@@ -340,6 +340,7 @@ typedef struct {
     int             wait_readers; // Количество ожидающих читателей
     int             wait_writers; // Количество ожидающих писателей
 } my_rwlock_t;
+```
 
 ### Алгоритм работы
 
